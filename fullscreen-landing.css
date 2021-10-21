@@ -1,0 +1,92 @@
+
+
+  body{
+    margin:0;
+    font-family:  sans-serif;
+    font-size:20px;
+    color:#ce520a;
+   
+  }
+
+
+  #intro h1{
+    font-size:70px;
+   
+  }
+
+  #intro p{
+    font-size:25px;
+  }
+
+  #intro .button{
+    background:#f5f4f3;
+    font-size:20px;
+    text-decoration:none;
+    color:#e26e0f;
+    border:#0adf8d 1px solid;
+    padding:10px 20px;
+    border-radius:10px;
+    margin-top:20px;
+  }
+
+  #intro .button:hover{
+    background:#e98127;
+    color:#fff;
+  }
+
+  
+  #intro{
+    background-image:url('file:///C:/Users/ACER/Desktop/photography%20gallery/kkk');
+    background-size:cover;
+    background-position:center;
+    height:100vh;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    text-align:center;
+    padding:0 20px;
+  }
+  body{
+    margin:auto;
+    
+    font-family:  sans-serif;
+    font-size:17px;
+    
+    background-image:url('http://traversymedia.com/downloads/assets/beachshowcase.jpg');
+   
+  }
+  #part-a{
+    padding:18px;
+    background:#f0ab6f;
+    color:#fff;
+    text-align:center;
+  }
+
+    
+  #part-b{
+    padding:22px;
+    background:#fff;
+    
+    color: #f0ab6f;
+  }
+
+  #part-c{
+    display:flex;
+  }
+
+  #part-c div{
+    padding:50px;
+  }
+
+  #part-c .block-1, #part-c .block-3{
+    background:#f0ab6f;
+    color:#fff;
+  }
+
+  #part-c .block-2{
+    background:#f9f9f9;
+    color: #f0ab6f;
+  }
+   
+  
